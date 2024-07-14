@@ -52,7 +52,7 @@ This is a custom STM32 Development PCB Board with an on-board SPI sensor (TC72).
 
 ## Contributor
 
-- [Purva Yeshi](https://github.com/PurviSYeshi)
+- [Purva Yeshi](https://github.com/purviyeshi)
 - [Suraj Sonawane](https://github.com/SurajSonawane2415)
 
 ## Acknowledgements and Resources
