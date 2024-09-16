@@ -55,6 +55,10 @@ This is a custom STM32 Development PCB Board with an on-board SPI sensor (TC72).
 - [Purva Yeshi](https://github.com/purviyeshi)
 - [Suraj Sonawane](https://github.com/SurajSonawane2415)
 
+## Future Work
+
+- [x] Added firmware features and developed design for commercial use: [USB-OTA-Bootloader-Integrated-Custom-STM-Board](https://github.com/SurajSonawane2415/USB-OTA-Bootloader-Integrated-Custom-STM-Board)
+
 ## Acknowledgements and Resources
 
 - [Vishwa VITI](https://vishwaspace.github.io/vishwa-web/) for providing us with required resources and Special thanks to my mentor [Karteek Nayak](https://github.com/Karteek-N) and all the seniors at Vishwa, VJTI for their constant support and guidance throughout the project.
